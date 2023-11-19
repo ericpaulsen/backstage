@@ -1,5 +1,0 @@
-{
-  "aksServicePrincipalAppId": { "value": "65310568-ad27-451e-b7d7-7259447ab200" },
-  "aksServicePrincipalObjectId": { "value": "66b53028-f7fb-4940-a523-7c17e8943dd4" },
-  "aksEnableRBAC": { "value": false }
-}
