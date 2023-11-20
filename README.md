@@ -20,7 +20,7 @@ It watches for any `Ingress` resources created in the cluster and provisions a l
 to serve traffic to Backstage. The App Gateway `IngressClass` is set on the Backstage Ingress resource
 to wire things up:
 
-```console
+```yaml
 ingressClassName: azure-application-gateway
 ```
 
